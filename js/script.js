@@ -1,4 +1,4 @@
-const MyBtn = document.querySelector(".MyBtn button"); 
+ const MyBtn = document.querySelector(".MyBtn button"); 
 const RulesBox = document.querySelector(".RulesBox");
 const exitButton = document.querySelector(".Buttons .ExitButton");
 const ContinueButton = document.querySelector(".Buttons .ContinueButton");
